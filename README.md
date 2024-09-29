@@ -34,7 +34,7 @@ Follow these steps to set up the project locally:
     npm run dev
     ```
 
-Open your browser and go to `http://localhost:3000` to view the app.
+Open your browser and go to `http://localhost:5173` to view the app.
 
 ## Usage
 
