@@ -16,7 +16,7 @@ Follow these steps to set up the project locally:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/library-app.git
+    git clone https://github.com/sinantech/Week16GraduationProject.git
     ```
 
 2. Navigate to the project directory:
