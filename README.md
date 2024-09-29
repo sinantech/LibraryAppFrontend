@@ -21,7 +21,7 @@ Follow these steps to set up the project locally:
 
 2. Navigate to the project directory:
     ```bash
-    cd library-app
+    cd Week16GraduationProject
     ```
 
 3. Install the dependencies:
