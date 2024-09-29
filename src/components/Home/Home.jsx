@@ -6,8 +6,6 @@ const Home = () => {
           <h1 className="h1-content">Welcome Library Management Web Application</h1>
         </div>
         <div className="home-contents-card">
-          <div className="home-content">CONTENT</div>
-          <div className="home-content">CONTENT</div>
         </div>
       </div>
     </>
