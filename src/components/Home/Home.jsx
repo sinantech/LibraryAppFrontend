@@ -76,7 +76,7 @@ const Home = () => {
           .home-info {
             margin-top: 40px;
             font-size: 1.2rem;
-            color: white;
+            color: black;
           }
         `}
       </style>
