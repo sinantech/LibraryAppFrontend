@@ -15,7 +15,7 @@ body {
 .navbar {
   border: 1px solid rgba(0, 0, 0, 0.171);
   border-radius: 0.5rem;
-  background: linear-gradient(to rigt, white, indigo, white);
+  background: linear-gradient(to right, black, white, black);
   color: indigo;
   align-items: center;
   padding: 1rem;
